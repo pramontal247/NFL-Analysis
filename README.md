@@ -14,3 +14,5 @@ Subset data week by week and update defensive rating. Beginning week 1 09/05/201
 +6 for Turnover of any sort & stop on 4th Down
 +2 for Tackle for loss
 +3 for forced Punt
+
+
