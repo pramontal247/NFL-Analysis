@@ -15,3 +15,5 @@ Should teams punt on 4th down or run a play if they are at their own 40 yard lin
 # Secondary Analysis
 Shiny App
 Vizualization
+
+Visualize play based on down, yards to go and quarter. What plays are teams executing the most
